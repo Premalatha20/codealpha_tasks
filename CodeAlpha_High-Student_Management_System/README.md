@@ -9,4 +9,3 @@ Concepts used:
 * Structures
 * File Handling
 * Loops
-*
