@@ -1,3 +1,12 @@
-# Matrix Operations in C
+# Student Management System
 
-A C program developed to perform matrix addition, matrix multiplication, and transpose operations using functions and 2D arrays.
+This project is developed using C programming language.
+
+The program is used to add, display and search student records.
+
+Concepts used:
+
+* Structures
+* File Handling
+* Loops
+*
